@@ -1,0 +1,1 @@
+add_library(mtapelib MTape.cpp MTapeIterator.cpp MTapeSorter.cpp)
